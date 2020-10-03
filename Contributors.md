@@ -143,3 +143,8 @@ Name: [Harsh Vijay](https://github.com/hvijaycse)<br/>
 Place: Pink City, India<br/>
 About: ML Developer<br/>
 <br/>
+
+Name: [Kelly Howell](https://github.com/mysticitgirl)<br/>
+Place: Perth, Western Australia<br/>
+About: Lifelong Student<br/>
+<br/>
